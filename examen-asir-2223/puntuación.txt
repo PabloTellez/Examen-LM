@@ -1,0 +1,7 @@
+hero section: 2,5 puntos 
+nav: 1 punto
+introducción: 1 punto
+galería: 2 puntos
+footer: 1,25  punto
+Video: 1,25 punto
+limpieza y documentación del código: 1 punto

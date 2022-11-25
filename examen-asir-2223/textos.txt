@@ -1,0 +1,28 @@
+Turntablism
+
+/* Introducción */
+El turntablism (también llamado DJing) es el arte de arreglar o crear música mediante efectos de sonido y manipulación de las rutinas de rotación y lectura de los discos de vinilo sobre un plato giradiscos.
+
+Se llama turntable al plato giradiscos. El turntablism es uno de los cuatro pilares básicos de la cultura Hip-Hop y uno de los orígenes de las técnicas de música dance actuales.
+
+Todo comienza en la década de 1970 en Nueva York. Se empieza a generar una nueva forma de entretenimiento musical, conocidos como los "Sound systems". Los Sound System no eran otra cosa que un vehículo armado de altavoces y equipos de audio, de donde se escuchaba música como Blues, Ska, Reggae y Dub, con el objetivo de que la gente se divirtiera sin pagar entrada y en la misma calle. Era el "Disc jockey" (en Jamaica llamado "Selector") el que se encargaba de seleccionar y poner la música en estas "fiestas callejeras".
+
+/* Pioneros */
+Afrika Bambaataa
+Nacido en el Bronx es considerado uno de los pioneros del turntablismo. También fundo la Zulu Nation, un grupo de raperos concienciados políticamente y socialmente
+
+DJ Babu
+Popularizó el termino tunrtablista para definir la creación de música a partir de discos y difrenciarse de los DJs que mezclan discos en una sesión. Es el rey del Beat Juggling
+
+Mix Master Mike
+Uno de los mejores turntablistas de la historia. Tanto que se retiró voluntariamente de competir en la DMC para dar oportunidad a otros DJs. Fue el DJ de los Beastie Boys
+
+DJ Jazzy Jeff
+Se hizo mundialemente famoso por sus apariciones en las serie The Fresh Prince of Bel-Air, pero también por ser el inventor del "transform scratch" y un afamado productor de hip-hop
+
+/* Pie de Pagina */
+<p>David Hormigo Ramírez</p>
+<p>CPIFP Málaga Tech Park</p>
+<p>Examen LMSI</p>
+<p><a href="https://www.freepik.es/foto-gratis/tocadiscos-giratorio-vinilo-vintage_5896977.htm#query=tocadisco&position=4&from_view=search&track=sph">Imagen de jcomp</a>en Freepik</p>
+<a href="https://www.flaticon.com/free-icons/lp" title="Lp icons">Lp icons created by smalllikeart - Flaticon</a>
